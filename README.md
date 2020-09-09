@@ -13,5 +13,5 @@ autocannon -c 200 -d 10 http:\\\localhost:8800
 
 - node cluster.js
 - autocannon -c 200 -d 10 http:\\localhost:8800
-- kill `<PID>` // Kill the process
-- kill -s SIGUSR2 `<PID>` // Kill the process and restart the worker
+- kill `<PID>` // Kill process
+- kill -s SIGUSR2 `<PID>` // Kill process and restart the worker
