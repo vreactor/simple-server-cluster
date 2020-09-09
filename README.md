@@ -7,7 +7,7 @@ Using the cluster module to create a failover server on Node.js that can withsta
 
 [autocannon](https://www.npmjs.com/package/autocannon) - benchmarking tool
 
-autocannon -c 200 -d 10 (http:\\localhost:8800)
+autocannon -c 200 -d 10 [http:\\localhost:8800](http:\\localhost:8800)
 
 ## Testing
 
